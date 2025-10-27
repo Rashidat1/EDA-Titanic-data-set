@@ -16,3 +16,8 @@ Tech Stack
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+  
+ Insights from the analysis
+- Younger passengers generally paid lower fares.
+- Higher fares were associated with upper-class passengers.
+- Box plots reveal clear differences in fare distribution across classes
